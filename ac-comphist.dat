@@ -1,2 +1,10 @@
-((("Document" .
+((("ac-trigger-commands" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("document" .
+   [0 0 0 1 0 0 0 0])
+  ("Document" .
+   [0 0 0 1 1 0 0 0])
+  ("function" .
+   [1 0 0 0 0 0 0 0])
+  ("continue" .
    [0 0 0 1 0 0 0 0])))
